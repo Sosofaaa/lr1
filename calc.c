@@ -1,0 +1,10 @@
+#include <studio.h>
+
+int main(void)
+{
+	int a = 10;
+	int b = 5;
+	
+	print("Sum %d\n", a + b);
+	return 0;
+}
