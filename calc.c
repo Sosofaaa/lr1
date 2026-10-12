@@ -9,5 +9,6 @@ int main(void)
 	printf("Summa: %d\n", a + b);
 	printf("Difference: %d\n", a - b);
 	printf("Product: %d\n", a * b);
+	printf("Remainder: %d\n", a % b);
 	return 0;
 }
